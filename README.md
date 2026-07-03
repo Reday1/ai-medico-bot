@@ -172,7 +172,7 @@ ai-medico-bot/
 
 ## 👨‍💻 Author
 
-**Himanshu Rajak**
+**Hridayesh Rana**
 
 ---
 
